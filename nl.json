@@ -1,6 +1,6 @@
 {
   "yes": "Ja",
-  "no": "Ne",
+  "no": "Nee",
   "continue": "Doorgaan",
   "topbar_day": "Dag {day}",
   "new_game": "Nieuw spel",
@@ -516,8 +516,7 @@
   "economicsetback_description": "Don't complete any contracts for 14 days",
   "starvation_description": "Don't complete any contracts for 30 days",
   "intoblack_description": "Have a monthly profit of at least $0",
-  "itssomething_description": "Complete your first contract",
-
+  "itssomething_description": "Eerste contract afronden",
   "samebutdifferent_description": "Installeer 1 mod",
   "installallthemods_description": "Installeer 5 mods",
   "accept_eula": "I accepteer de EULA",
