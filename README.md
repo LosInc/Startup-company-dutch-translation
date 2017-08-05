@@ -14,4 +14,4 @@ C:\Users\Thomas\Documents\Startup Company\mods\DutchTranslation
 https://www.startupcompanygame.com/
 
 #Updates
-Have updates? Make a PR and I'll see what I can do for you ;).
+Have updates? Make a PR and I'll see what I can do for you. Right now this is work in progress!
