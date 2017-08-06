@@ -372,7 +372,7 @@
   "welcomemail_body": "Hallo!,\n\nWelkom bij de Startup Company beta.\n        \nOmdat het spel in ontwikkeling is zijn er minder tips en hints.\n       \nVoor de beta, om te beginnen wat tips om je eerste bedrijf in gang te zetten.\n       \n<b>Objectives</b>\n\n* Allereerst, neem een lening.\n * Huur een verkoop manager in die contracten voor je zoekt. \n* Vervul je eerste contract met de componenten die je developers voor je kunnen maken.\n       \nHopelijk heb je veel plezier, voel je vrij om contact te zoeken.\n\nBest,\nJonas",
   "welcomemail_subject": "Welkom bij Startup Company!",
   "employeequit_subject": "Vervelend nieuws",
-  "employeequit_body": "Hi!\n\nIk heb met plezier bij {companyName} gewerkt. Recentelijk voel ik mij minder op mn plek en denk ik dat het bedrijf een andere kant op gaat.\n\nHierbij zeg ik mijn contract op als <b>{employeeTypeName}</b>.\n\n\Veel success verder,\n{name}",
+  "employeequit_body": "Hi!\n\nIk heb met plezier bij {companyName} gewerkt. Recentelijk voel ik mij minder op mn plek en denk ik dat het bedrijf een andere kant op gaat.\n\nHierbij zeg ik mijn contract op als <b>{employeeTypeName}</b>.\n\nVeel success verder,\n{name}",
   "lowmoneywarning_subject": "Te laag saldo",
   "lowmoneywarning_body": "Beste klant,\n\nOnze systemen geven uw saldo aan op lager dan $5,000.00.\n\nAls uw saldo onder de $0 komt zeggen wij uw account op.\n\nBeste wensen,\nNordiwa Banking",
   "contractcancel_subject": "Compleet niet acceptabel!",
